@@ -1,3 +1,2 @@
-%%writefile my-new-file.txt
-rubygems-2.7.7
+
 
